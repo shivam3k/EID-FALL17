@@ -1,2 +1,2 @@
-# git_test_repo
-git for fun
+# eid-fall2017
+Shivam Khandelwal
