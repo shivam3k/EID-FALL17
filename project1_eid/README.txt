@@ -67,6 +67,8 @@ Features -
 3) Temperature displayed in fahrenheit, celsius and kelvin scale
 4) Real-time digital clock included.
 5) Push Button to refresh sensor data manually.
+6) Information message if temperature exceeds 10* C.
+7) Warning message if sensor not connected or any other error.
 
 #----------------------------------END : README ----------------------------------------------------- 
 
